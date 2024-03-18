@@ -1,0 +1,10 @@
+/* AddContact component styles */
+.add-contact-container {
+    margin-bottom: 20px;
+  }
+  
+  .add-contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
